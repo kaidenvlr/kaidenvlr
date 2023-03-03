@@ -60,13 +60,16 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bv0uc19zgo3d34eyypjx2f4nu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+---
+
 ### Contact with me 📝
 
 [<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin]
+<br>
 [<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram]
+<br>
 [<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify]
--
--
+<br>
 <img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />kaidenvlr#5249
 
 ---
