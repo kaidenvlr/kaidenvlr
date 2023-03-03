@@ -64,16 +64,16 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin] &nbsp;&nbsp;Linkedin
+[<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin] &nbsp;&nbsp;Zhanibek Jumadiyev
 <br>
 <br>
-[<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram] &nbsp;&nbsp;Telegram
+[<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram] &nbsp;&nbsp;kaidenvlr
 <br>
 <br>
-[<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify] &nbsp;&nbsp; Spotify
+[<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify] &nbsp; kaiden
 <br>
 <br>
-<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />&nbsp;&nbsp;&nbsp;kaidenvlr#5249
+<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />&nbsp;&nbsp;kaidenvlr#5249
 
 ---
 
