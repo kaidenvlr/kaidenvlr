@@ -1,4 +1,4 @@
-# Hi there, I'm Zhanibek
+# Hello there, I'm Zhanibek
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -7,25 +7,6 @@
 - I’m currently working on web development technologies like Django, DRF etc.
 - I’m currently learning everything about Backend technologies on Python.
 - Future Goals: Learn more technologies - Never stop creating new ideas.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bv0uc19zgo3d34eyypjx2f4nu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-### Contact with me 📝
-
-[<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram]
-[<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify]
--
--
-<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />kaidenvlr#5249
 
 ---
 
@@ -58,9 +39,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-302c2c?style=flat-square&logo=pycharm&logoColor=ffffff)
 
-
 ---
-
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -72,6 +51,23 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaidenvlr&theme=react&line_height=40&hide=css"/>
     </a>
 </div>
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bv0uc19zgo3d34eyypjx2f4nu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+### Contact with me 📝
+
+[<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram]
+[<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify]
+-
+-
+<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />kaidenvlr#5249
 
 ---
 
