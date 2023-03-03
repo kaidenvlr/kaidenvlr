@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Technology and Software student
+## I'm a Junior Python Developer
 
 - I’m currently working on web development technologies like Django, DRF etc.
 - I’m currently learning everything about Backend technologies on Python.
@@ -58,11 +58,9 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-302c2c?style=flat-square&logo=pycharm&logoColor=ffffff)
 
-<br/>
 
 ---
 
-<br/>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -73,9 +71,7 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaidenvlr&theme=react&line_height=40&hide=css"/>
     </a>
-</div
-
-<br/>
+</div>
 
 ---
 
