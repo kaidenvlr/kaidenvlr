@@ -41,36 +41,12 @@
 
 ---
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaidenvlr&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaidenvlr&theme=react&line_height=40&hide=css"/>
-    </a>
-</div>
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bv0uc19zgo3d34eyypjx2f4nu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-
 ### Contact with me 📝
 
 [<img align="left" alt="kaidenvlr | LinkedIn" height="30px" src="./icons/linkedin.svg"/>][linkedin] &nbsp;&nbsp;Zhanibek Jumadiyev
 <br>
 <br>
 [<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram] &nbsp;&nbsp;kaidenvlr
-<br>
-<br>
-[<img align="left" alt="kaidenvlr | Spotify" height="30px" src="./icons/spotify.svg" />][Spotify] &nbsp; kaiden
 <br>
 <br>
 <img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />&nbsp;&nbsp;kaidenvlr#5249
@@ -82,4 +58,3 @@
 
 [telegram]: https://t.me/kaidenvlr
 [linkedin]: https://www.linkedin.com/in/zhanibek-jumadiyev-13471b264/
-[Spotify]: https://open.spotify.com/user/bv0uc19zgo3d34eyypjx2f4nu
