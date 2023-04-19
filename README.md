@@ -50,7 +50,7 @@
 [<img align="left" alt="kaidenvlr | Telegram" height="30px" src="./icons/telegram.svg" />][telegram] &nbsp;&nbsp;kaidenvlr
 <br>
 <br>
-<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />&nbsp;&nbsp;kaidenvlr#5249
+<img align="left" alt="kaidenvlr | Discord" height="30px" src="./icons/discord.svg" />&nbsp;&nbsp;kaidenvlr#0001
 
 ---
 
