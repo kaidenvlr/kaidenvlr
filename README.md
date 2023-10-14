@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Junior Python Developer
+## I'm a Backend Python Developer
 
 - I’m currently working on web development technologies like Django, DRF etc.
 - I’m currently learning everything about Backend technologies on Python.
